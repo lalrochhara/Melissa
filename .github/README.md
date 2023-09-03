@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/lalrochhara/Melissa/blob/master/Melissa/resources/fglitch.gif">
+  <img src="https://i.ibb.co/V9wdXTK/lms.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Melissa](https://t.me/dMelissaBot)**_
