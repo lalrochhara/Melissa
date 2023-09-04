@@ -3,6 +3,7 @@ import os
 import sys
 import time
 
+from telegram.ext import Updater
 import telegram.ext as tg
 from pyrogram import Client, errors
 from telethon import TelegramClient
