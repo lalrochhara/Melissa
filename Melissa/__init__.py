@@ -144,7 +144,7 @@ DEV_USERS.add(OWNER_ID)
 DEV_USERS.add(6161727895)
 
 
-updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
+updater = ApplicationBuilder().token("TOKEN").build()
 telethn = TelegramClient("Melissa", API_ID, API_HASH)
 
 pbot = Client("Melissa", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
